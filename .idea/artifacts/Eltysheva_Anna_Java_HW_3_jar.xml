@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Eltysheva_Anna_Java_HW_3:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Eltysheva_Anna_Java_HW_3_jar</output-path>
+    <root id="archive" name="Eltysheva_Anna_Java_HW_3.jar">
+      <element id="module-output" name="Eltysheva_Anna_Java_HW_3" />
+    </root>
+  </artifact>
+</component>
